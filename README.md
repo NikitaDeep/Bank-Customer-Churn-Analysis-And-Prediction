@@ -14,7 +14,10 @@ The database have three tables named stolen_vehicles, make_details and location.
 
  
 Keypoints about the Analysis :-
+
 ** Total number of stolen vehicles: 4,538
+
+
 ** Regions with highest vehicle thefts:
           Auckland: 1,630
           Canterbury: 660
