@@ -16,24 +16,21 @@ The database have three tables named stolen_vehicles, make_details and location.
 Keypoints about the Analysis :-
 ** Total number of stolen vehicles: 4,538
 ** Regions with highest vehicle thefts:
-
           Auckland: 1,630
           Canterbury: 660
           Bay of Plenty: 445
 
 ** Trend of vehicle thefts:
-
           2021: 1,663 thefts
           2022: 2,875 thefts 
-** TForecasted thefts for the next year in top regions:
-
+          
+** Forecasted thefts for the next year in top regions:
            Auckland: 8,096
            Canterbury: 1,676
            Wellington: 1,583
 
 ** Seasonal patterns:
-
-         Standard vehicles show more pronounced seasonal patterns in theft
+          Standard vehicles show more pronounced seasonal patterns in theft
           Luxury vehicle thefts appear more evenly distributed throughout the year
 
 
